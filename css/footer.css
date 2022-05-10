@@ -1,0 +1,384 @@
+.footer {
+    background-color: black;
+    width: 100%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2rem;
+    background-color: #313543;
+    height: 676px;
+    flex-flow: row;
+    margin-top: 263px;
+  }
+  
+  .footercontent img {
+    width: 232px;
+    margin-top: 55px;
+    text-align: center;
+    margin-left: 243px;
+  }
+  .footercontent p {
+    color: #fff;
+    font-family: Montserrat;
+    font-weight: 400;
+    width: 408px;
+    margin-left: 241px;
+    margin-top: 63px;
+    font-size: 17px;
+    line-height: 1.8;
+  }
+  .footer ul {
+    list-style: none;
+    color: white;
+    font-family: Poppins;
+    font-size: 17px;
+    margin-left: 577px;
+    margin-top: 105px;
+    opacity: 0.8;
+    letter-spacing: 1;
+    font-weight: 300;
+  }
+  .footer li {
+    padding-bottom: 20px;
+  }
+  .list1 {
+    margin-top: -243px;
+    margin-left: 234px;
+    text-align: center;
+  }
+  .icons {
+    float: right;
+    margin-right: 15px;
+    margin-top: 200px;
+    letter-spacing: 13px;
+  }
+  .icons img {
+    width: 50px;
+    height: auto;
+    border-radius: 35px;
+  }
+  .footer-container {
+    background-color: black;
+    height: 153px;
+    display: flex;
+  }
+  .footer-container p {
+    color: #fff;
+    font-family: "poppins";
+    font-size: 24px;
+    margin-left: 236px;
+    font-weight: 400;
+    margin-top: 50px;
+  }
+  .chatbox #chatbox-info {
+    height: 69px;
+    width: 70px;
+    text-align: right;
+    border-radius: 40px;
+    margin-left: 1263;
+    margin-top: 69px;
+    position: fixed;
+    right: 18px;
+    bottom: 15px;
+  }
+  .chatbox {
+    z-index: 2;
+    /* position: fixed; */
+    width: 28%;
+  }
+  .list2{
+    margin-left: 747px !important;
+    text-align: right;
+  }
+  @media screen and (max-width: 600px) {
+    body,
+    html {
+      overflow-x: hidden;
+    }
+    .footercontent img {
+      width: 232px;
+      margin-top: 76px;
+      text-align: center;
+      margin-left: 24px;
+    }
+    .footercontent p {
+      color: #fff;
+      font-family: Montserrat;
+      font-weight: 400;
+      font-size: 18px;
+      margin-left: 20px;
+      width: 226px;
+      text-align: left;
+    }
+    .footer ul {
+      list-style: none;
+      color: white;
+      font-family: Poppins;
+      font-size: 16px;
+      margin-left: -277px;
+      margin-top: 455px;
+      opacity: 1;
+      letter-spacing: 1;
+      font-weight: 300;
+      width: 123px;
+    }
+    .list2 {
+      margin-top: 462px !important;
+      width: 82px !important;
+      margin-left: -297px !important;
+    }
+    .footer {
+      width: 100%;
+      display: flex;
+      margin-left: auto;
+      margin-right: auto;
+      padding-bottom: 2rem;
+      background-color: #313543;
+      height: 927px;
+      margin-top: 242px;
+      flex-flow: row;
+    }
+    .icons {
+      float: left;
+      margin-right: -239px;
+      margin-top: 59px;
+      margin-left: -235px;
+      width: 279px;
+      padding: 0;
+      outline: 0;
+      font-family: Montserrat, sans-serif;
+      font-size: 16px;
+      font-weight: 400;
+      letter-spacing: 2;
+    }
+    .list1 {
+      margin-top: -665px;
+      margin-left: 169px;
+      text-align: left;
+    }
+    .footer-container {
+      background-color: black;
+      height: 92px;
+      display: flex;
+    }
+    .footer-container p {
+      color: #fff;
+      font-family: "poppins";
+      font-size: 13px;
+      margin-left: -214px;
+      font-weight: 400;
+      margin-top: 38px;
+    }
+    .icons img {
+      width: 39px !important;
+      height: auto;
+      border-radius: 35px !important;
+      padding-left: 7px !important;
+    }
+    .chatbox #chatbox-info {
+      margin-left: -270px !important;
+      margin-top: -59px !important;
+      position: fixed;
+      bottom: 21px;
+      right: 10px;
+      height: 55px;
+      width: 56px;
+    }
+  }
+  @media only screen and (max-width: 810px) and (min-width: 350px) {
+    .footercontent img {
+      width: 202px;
+      margin-top: 76px;
+      text-align: center;
+      margin-left: 51px;
+    }
+    .footercontent p {
+      color: #fff;
+      font-family: Montserrat;
+      font-weight: 400 !important;
+      font-size: 16px;
+      margin-left: 51px !important;
+      max-width: 326px;
+      text-align: left;
+      margin-top: 41px;
+    }
+    .footer ul {
+      list-style: none;
+      color: white;
+      font-family: Poppins;
+      font-size: 16px !important;
+      margin-left: -9px !important;
+      margin-top: 136px !important;
+      opacity: 1;
+      letter-spacing: 0 !important;
+      font-weight: 300 !important;
+      /* width: 10px; */
+      text-align: left;
+    }
+    .footer {
+      width: 100%;
+      display: flex;
+      margin-left: auto;
+      margin-right: auto;
+      padding-bottom: 2rem;
+      background-color: #313543;
+      height: 487px;
+      margin-top: 242px;
+      flex-flow: row;
+    }
+    .icons {
+      float: right;
+      margin-right: -10;
+      margin-top: 31px;
+      margin-left: -235px;
+      width: 279px;
+      padding: 0;
+      outline: 0;
+      font-family: Montserrat, sans-serif;
+      font-size: 16px;
+      font-weight: 400;
+      letter-spacing: 2;
+    }
+    .list1 {
+      margin-top: -265px !important;
+      margin-left: 169px !important;
+      text-align: right !important;
+    }
+    .list2{
+      margin-top: 60px !important;
+      width: 117px !important;
+    }
+    .footer-container {
+      background-color: black;
+      height: 105px;
+      display: flex;
+    }
+    .footer-container p {
+      color: #fff;
+      font-family: "poppins";
+      font-size: 20px;
+      margin-left: -191px;
+      font-weight: 400;
+      margin-top: 38px;
+      text-align: left;
+    }
+    .icons img {
+      width: 33px;
+      height: auto;
+      border-radius: 35px;
+    }
+    .chatbox #chatbox-info {
+      margin-left: -52px !important;
+      height: 69px;
+      width: 70px;
+      text-align: right;
+      border-radius: 40px;
+      margin-left: 163;
+      margin-top: 28px;
+      position: fixed;
+      bottom: 8px;
+      right: 10px;
+      
+    }
+    .footer-slider #celebration
+    {
+      margin-left: 68px;
+    }
+  }
+  @media only screen and (max-width: 1024px) and (min-width: 768px) {
+    .footercontent img {
+      width: 202px;
+      margin-top: 76px;
+      text-align: center;
+      margin-left: 51px;
+    }
+    .footercontent p {
+      color: #fff;
+      font-family: Montserrat;
+      font-weight: 400 !important;
+      font-size: 16px;
+      margin-left: 51px !important;
+      width: 401px;
+      text-align: left;
+      margin-top: 41px;
+    }
+    .footer ul {
+      list-style: none;
+      color: white;
+      font-family: Poppins;
+      font-size: 16px;
+      margin-left: 127px;
+      margin-top: 136px;
+      opacity: 1;
+      letter-spacing: 0;
+      font-weight: 300;
+      text-align: left;
+    }
+    .footer {
+      width: 100%;
+      display: flex;
+      margin-left: auto;
+      margin-right: auto;
+      padding-bottom: 2rem;
+      background-color: #313543;
+      height: 487px;
+      margin-top: 242px;
+      flex-flow: row;
+    }
+    .icons {
+      float: right;
+      margin-right: -9px;
+      margin-top: 31px;
+      margin-left: -235px;
+      width: 356px;
+      padding: 0;
+      outline: 0;
+      font-family: Montserrat, sans-serif;
+      font-size: 21px;
+      font-weight: 400;
+      letter-spacing: 7;
+    }
+    .list1 {
+      margin-top: -265px;
+      margin-left: 169px;
+      text-align: right;
+    }
+    .footer-container {
+      background-color: black;
+      height: 127px;
+      display: flex;
+    }
+    .footer-container p {
+      color: #fff;
+      font-family: "poppins";
+      font-size: 20px;
+      margin-left: 76px;
+      font-weight: 400;
+      margin-top: 38px;
+      text-align: left;
+    }
+    .icons img {
+      margin-left: -18px;
+      width: 40px;
+      height: auto;
+      border-radius: 35px;
+      padding-left: 20px;
+    }
+    .list2 {
+      margin-left: 167px !important;
+      margin-top: 135px !important;
+      text-align: right !important;
+    }
+    .chatbox #chatbox-info {
+      height: 55px;
+      width: 61px;
+      text-align: right;
+      border-radius: 40px;
+      margin-left: 163;
+      margin-top: -21px;
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+    }
+  }
+  

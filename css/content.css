@@ -1,0 +1,416 @@
+/* *
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+.container {
+  background-color: #1e232d;
+  height: 100%;
+  margin-left: -8px;
+  width: 102%;
+  }
+  .container-paragraph {
+    color: white;
+    width: 30%;
+    font-size: 28px;
+    font-family: Montserrat, sans-serif;
+    margin-left: 32%;
+    margin-top: 2%;
+  }
+  .container-heading {
+    font-size: 22px;
+    color: #99dde8;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 18%;
+    font-family: Montserrat, sans-serif;
+    padding-right: 29%;
+  }
+  .focused1 {
+    background-color: #ffd948;
+    margin-top: -1%;
+    height: 21%;
+    width: 101%;
+    margin-left: -1%;
+  }
+  .design {
+    padding-bottom: 39%;
+    position: absolute;
+    padding-left: 24%;
+    width: 17%;
+    margin-top: 0%;
+  }
+  .erop {
+    position: absolute;
+    margin-top: -8%;
+    width: 20%;
+    margin-left: -1%;
+    display: block;
+  }
+  .eropresponsive {
+    display: none;
+  }
+  .erop1 {
+    display: none;
+  }
+  .european {
+    font-family: montserrat;
+    font-weight: 400;
+    color: #463500;
+    text-align: center;
+    opacity: 1.9;
+    margin-top: 1%;
+    padding-top: 2%;
+    padding-left: 0%;
+    margin-left: -17%;
+  }
+  .landon {
+    margin-left: 41%;
+    font-size: 18px;
+    font-family: "montserrat";
+  }
+  .inspired {
+    text-align: right;
+    position: relative;
+    margin-top: -6%;
+    margin-right: 11%;
+  }
+  .inspired1 {
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 31px;
+    color: #4d3f0a;
+    padding-top: 2%;
+    opacity: 1;
+    margin-bottom: -2%;
+    line-height: 1;
+  }
+  .inspired2 {
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 30px;
+    color: #4d3f0a;
+    opacity: 1.1;
+    margin-bottom: -1%;
+    line-height: 2;
+  }
+  .about {
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 14px;
+    color: #4d3f0a;
+    display: block;
+  }
+  @media only screen and (max-width: 600px) and (min-width: 320px) {
+    .container {
+      background-color: #1e232d;
+      height: 125%;
+      margin-left: -1%;
+      width: 105%;
+    }
+    .container-heading {
+      font-size: 22px;
+      color: #99dde8;
+      font-weight: 500;
+      text-align: center;
+      /* padding-top: 15%; */
+      padding-top: 41%;
+      font-family: Montserrat, sans-serif;
+      padding-right: 39%;
+      width: 56%;
+      padding-left: 10%;
+    }
+    .container-paragraph {
+      color: white;
+      width: 70%;
+      font-size: 18px;
+      font-family: Montserrat, sans-serif;
+      margin-left: 15%;
+      margin-top: 5%;
+      line-height: 33px;
+      text-align: left;
+      font-weight: 500;
+    }
+    .erop {
+      display: none;
+    }
+    .eropresponsive {
+      display: block;
+      margin-left: -42%;
+      width: 82%;
+      position: absolute;
+      margin-top: -24%;
+    }
+    .design {
+      padding-bottom: 404px;
+      position: absolute;
+      padding-left: 1%;
+      width: 93%;
+      margin-top: 0%;
+    }
+    .focused1 {
+      background-color: #ffd948;
+      margin-top: -20px;
+      height: 39%;
+      width: 103%;
+      margin-left: -1%;
+    }
+    .european {
+      font-size: 17px;
+      text-align: right;
+      width: 65%;
+      margin-top: 3%;
+      padding-top: 1%;
+      padding-left: 46%;
+      font-weight: 300;
+      font-family: Montserrat, sans-serif;
+      opacity: 1.9;
+    }
+    .about {
+      display: none;
+    }
+    .landon {
+      text-align: center;
+      margin-left: -40%;
+      font-size: 12px;
+      font-family: "montserrat";
+      margin-top: -1%;
+      color: #463500;
+    }
+    .inspired1 {
+      font-size: 16px;
+      margin-bottom: -1%;
+      margin-top: 0%;
+    }
+    .inspired2 {
+      font-size: 16px;
+      margin-bottom: 0%;
+      margin-left: 8%;
+    }
+    .inspired {
+      text-align: right;
+      position: relative;
+      margin-top: -2%;
+      margin-right: 4%;
+      margin-left: -120;
+      line-height: 2.3;
+    }
+  }
+  @media only screen and (max-width: 810px) and (min-width: 350px) {
+    .container {
+      margin-top: -18% !important;
+      height: 94% !important;
+    }
+  
+    .container-heading {
+      margin-left: 20% !important;
+      padding-top: 35% !important;
+      font-size: 24px !important;
+      font-weight: 300 !important;
+    }
+  
+    .container-paragraph {
+      color: white !important;
+      width: 73% !important;
+      font-size: 29px !important;
+      font-family: Montserrat, sans-serif;
+      margin-left: 20% !important;
+      margin-top: 4% !important;
+      line-height: 1.5 !important;
+      font-weight: 500 !important;
+    }
+  
+    .focused1 {
+      height: 188px;
+      margin-top: -3%;
+    }
+  
+    .erop {
+      display: none;
+    }
+  
+    .erop1 {
+      display: block;
+      position: absolute;
+      margin-top: -6%;
+      margin-left: -9%;
+    }
+    .design {
+      padding-bottom: 40% !important;
+      position: absolute;
+      padding-left: 19% !important;
+      width: 38% !important;
+      margin-top: 0% !important;
+    }
+    .european {
+      text-align: right !important;
+      font-family: montserrat !important;
+      font-weight: 300 !important;
+      color: #463500 !important;
+      opacity: 1.4 !important;
+      margin-top: 18px !important;
+      padding-top: 6% !important;
+      font-size: 16px !important;
+      width: 38% !important;
+      margin-left: 19% !important;
+    }
+    .landon {
+      text-align: right !important;
+      margin-left: -29% !important;
+      font-size: 14px !important;
+      font-family: "montserrat";
+      float: left !important;
+      font-weight: 400 !important;
+      margin-top: 0% !important;
+    }
+    .inspired1 {
+      font-family: Poppins;
+      font-weight: 600 !important;
+      font-size: 21px !important;
+      color: #4d3f0a !important;
+      padding-top: 3% !important;
+      opacity: 1 !important;
+      margin-bottom: -3% !important;
+      line-height: 1 !important;
+      letter-spacing: 0px !important;
+      float: left;
+      margin-top: -32% !important;
+      margin-left: -101% !important;
+    }
+    .inspired2 {
+      font-family: poppins;
+      font-weight: 600 !important;
+      font-size: 21px !important;
+      color: #4d3f0a !important;
+      opacity: 1.1 !important;
+      margin-bottom: -1% !important;
+      line-height: 1 !important;
+      float: left !important;
+      margin-left: -81% !important;
+      margin-top: -26px !important;
+    }
+    .about {
+      display: none;
+    }
+    .content-img {
+      margin-left: 201px !important;
+      margin-top: 258px !important;
+      position: absolute;
+      text-align: center !important;
+      width: 22px !important;
+    }
+    .inspired {
+      position: relative;
+      margin-top: -30% !important;
+      margin-right: 17% !important;
+      margin-left: 58% !important;
+      font-size: 16px !important;
+      text-align: left;
+    }
+  }
+  @media only screen and (max-width: 1024px) and (min-width: 768px) {
+    .container {
+      height: 77%;
+    }
+    .container-heading {
+      font-size: 22px;
+      color: #99dde8;
+      font-weight: 400;
+      text-align: left;
+      padding-top: 23%;
+      font-family: Montserrat, sans-serif;
+      padding-right: 30%;
+    }
+    .container-paragraph {
+      color: white;
+      width: 592px;
+      font-size: 28px;
+      font-family: Montserrat, sans-serif;
+      margin-left: 15%;
+      margin-top: 1%;
+      line-height: 1.5;
+      text-align: left;
+    }
+    .erop {
+      display: none;
+    }
+    .eropresponsive {
+      display: inline-block;
+      margin-top: -6%;
+      position: absolute;
+      margin-left: -10%;
+    }
+    .focused1 {
+       
+      height: 18%;
+      margin-top: -2%;
+    }
+    .design {
+      padding-bottom: 404px;
+      position: absolute;
+      padding-left: 19%;
+      width: 30%;
+      margin-top: 0%;
+    }
+    .european {
+      font-family: montserrat;
+      font-weight: 300;
+      color: #463500;
+      opacity: 1.2;
+      margin-top: 18px;
+      padding-top: 5%;
+      margin-left: 17%;
+      width: 32%;
+      text-align: right;
+      font-size: 16px;
+    }
+    .landon {
+      text-align: left;
+      font-size: 14px;
+      font-family: "montserrat";
+      margin-left: 32%;
+      font-weight: 500;
+      margin-top: 0%;
+      opacity: 0.7;
+    }
+    .inspired {
+      position: relative;
+      margin-top: -24%;
+      margin-right: 17%;
+      margin-left: 50%;
+      font-size: 16px !important;
+      text-align: left;
+    }
+    .inspired1 {
+      font-family: Poppins;
+      font-weight: 700;
+      font-size: 22px;
+      color: #4d3f0a;
+      padding-top: 3%;
+      opacity: 1;
+      margin-bottom: -3%;
+      line-height: 1;
+      letter-spacing: 0px;
+      margin-left: -1%;
+    }
+    .inspired2 {
+      font-family: poppins;
+      font-weight: 600;
+      font-size: 22px;
+      color: #4d3f0a;
+      opacity: 1.1;
+      margin-bottom: -1%;
+      line-height: 3;
+      margin-left: 10%;
+      margin-top: 4%;
+    }
+    .about {
+      display: none;
+    }
+    .content-img {
+      text-align: right;
+      margin-left: 121%;
+    }
+  }
+  

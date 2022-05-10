@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="Group_31730" data-name="Group 31730" transform="translate(168 131)">
+    <g id="Group_31731" data-name="Group 31731" transform="translate(-168 -131)">
+      <g id="Group_31732" data-name="Group 31732">
+        <g id="Group_25981" data-name="Group 25981" transform="translate(0 0)">
+          <path id="Path_15" data-name="Path 15" d="M32,0A32,32,0,1,1,0,32,32,32,0,0,1,32,0Z" transform="translate(0 0)" fill="#0077b5"/>
+        </g>
+        <g id="linked-in-logo" transform="translate(17.6 17.609)">
+          <path id="LinkedIn_3_" d="M29.47,27.9V38.789H23.151V28.621c0-2.557-.911-4.294-3.2-4.294a3.46,3.46,0,0,0-3.24,2.308,4.368,4.368,0,0,0-.216,1.542v10.61H10.184s.085-17.215,0-19H16.5v2.693c-.009.022-.027.04-.036.065H16.5v-.065a6.275,6.275,0,0,1,5.694-3.139C26.357,19.344,29.47,22.058,29.47,27.9ZM3.574,10.629A3.294,3.294,0,1,0,3.493,17.2h.038a3.3,3.3,0,1,0,.043-6.569Zm-3.2,28.16H6.692v-19H.377Z" transform="translate(0 -10.629)" fill="#fffcfc"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

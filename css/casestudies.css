@@ -1,0 +1,791 @@
+
+.casestudies {
+  margin-bottom: 12%;
+  margin-top: 5%;
+  background-color: #faf5f0;
+  margin-left: -1%;
+  width: 2062px;
+  height: 90rem;
+  position: absolute;
+}
+.sa p {
+  margin-top: 14%;
+margin-left: 43%;
+}
+.sa h1 {
+  margin-left: 20%;
+  font-weight: 689;
+  font-family: poppins;
+  text-align: center;
+  color: #313543;
+  font-size: 63px;
+  margin-top: -4%;
+  width: 53%;
+}
+.lorry img {
+  position: absolute;
+  display: flex;
+  margin-left: 184px;
+  width: 37%;
+  height: 40%;
+}
+.van img {
+  position: absolute;
+display: flex;
+margin-left: 990px;
+width: 38%;
+height: 40%;
+margin-top: 0%;
+}
+.llog p {
+  margin-left: 5%;
+  margin-top: 10px;
+  position: absolute;
+  font-family: poppins;
+  opacity: 0.7;
+  font-size: 25px;
+  margin-top: -8%;
+  cursor: pointer;
+}
+.llog h6 {
+  text-align: center;
+  color: #5b78b1;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 13px;
+  margin-right: 4%;
+  background-color: #eef2f9;
+  width: 81px;
+  float: right;
+  margin-top: -7%;
+  border-radius: 18px;
+}
+
+.blackbuck {
+  background-color: #f8f8f8;
+  width: 37%;
+  min-height: 17%;
+  margin-bottom: 2rem;
+  position: absolute;
+  margin-top: 28%;
+  margin-left: 9%;
+}
+.track {
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 16px;
+  color: #313543;
+  margin-top: 10%;
+  width: 73%;
+  margin-left: 6%;
+  line-height: 1.5;
+}
+.viewarrow {
+  width: 156px !important;
+  margin-top: 10px;
+  position: absolute;
+  height: 12px !important;
+  margin-top: -37px !important;
+  cursor: pointer;
+}
+.viewmore {
+  border: 3px solid #242424;
+  max-width: 100%;
+  padding: 10% 1% 0% 0%;
+  display: flex;
+  margin: 1% 56% 3% 3.3%;
+}
+.viewpara {
+  text-align: center;
+  font-size: 19px !important;
+  display: flex;
+  font-family: Montserrat !important;
+  font-weight: 500;
+  padding-top: 13px;
+  padding-left: 0px;
+}
+.lendstack {
+  background-color: #f8f8f8;
+  width: 38% !important;
+  min-height: 20% !important;
+  margin-bottom: 2rem !important;
+  position: absolute !important;
+  margin-left: 48% !important;
+  margin-top: 27% !important;
+}
+.stack1 p {
+  font-family: poppins;
+font-size: 25px;
+opacity: 0.7;
+margin-left: 6%;
+cursor: pointer;
+margin-top: 8px;
+}
+.stack1 h6 {
+  background-color: eef2f9;
+  width: 10%;
+  height: 3%;
+  float: right;
+  padding-top: 1%;
+  margin-bottom: 1%;
+  margin-top: -8%;
+  padding-left: 10px;
+  color: #5b78b1;
+  font-size: 12px;
+  font-family: poppins;
+  font-weight: 400;
+  margin-right: 5%;
+  border-radius: 7px;
+}
+.robust {
+  font-family: Montserrat;
+font-weight: 400;
+font-size: 16px;
+color: #313543;
+margin-top: 2%;
+width: 74%;
+margin-left: 6%;
+line-height: 1.5;
+}
+.viewmoree {
+  border: 3px solid #242424;
+  max-width: 33%;
+  padding: -14px 9px 47px 7px;
+  display: flex;
+  margin: 20.5px 469px 17px 46.5px;
+}
+.viewparaa {
+  text-align: center;
+  font-size: 19px !important;
+  display: flex;
+  font-family: Montserrat !important;
+  font-weight: 500;
+  padding-top: 10px;
+  padding-left: 11px;
+}
+.viewarroww {
+  /* margin-left: 27% !important;
+  width: 2% !important;
+  margin-top: -2% !important; */
+  margin-left: 27% !important;
+width: 2% !important;
+margin-top: -3% !important;
+cursor: pointer;
+}
+.viewmore12 {
+  border: 3px solid #242424;
+  max-width: 13%;
+  padding: 67px 1px 10px 2px;
+  margin: -2.5px 413px 32px 39.5px;
+  border-radius: 12px;
+  display: none;
+}
+.viewarrow12 {
+  width: 48px !important;
+  margin-top: -322px !important;
+  margin-left: 20px !important;
+}
+.viewmoree12 {
+  border: 3px solid #242424;
+  max-width: 15%;
+  padding: 9px 9px 47px 7px;
+  display: none;
+  margin: 20.5px 469px 17px 46.5px;
+  border-radius: 12px;
+}
+.viewarroww12 {
+  width: 59px !important;
+  margin-top: -269px !important;
+  margin-left: -13px !important;
+}
+.userexp {
+  margin-top: 75%;
+  display: flex;
+  background-color: #faf5f0;
+  margin-left: -6px;
+  height: 42%;
+  width: 2048px;
+  cursor: pointer;
+}
+.allcasee {
+  text-align: center;
+  margin-left: 800px;
+  margin-top: 100px;
+  font-family: Montserrat;
+  font-weight: 300;
+  margin-top: 217px;
+}
+.allcasee p {
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 300;
+}
+.allcasee img {
+  margin-top: -46px;
+  position: absolute;
+  margin-left: 103px;
+  width: 33px;
+}
+
+@media screen and (max-width: 600px) and (min-width: 320px) {
+  .casestudies {
+    margin-bottom: 12%;
+    margin-top: 0%;
+    background-color: #faf5f0;
+    margin-left: 0px;
+    width: 304px;
+    height: 90rem;
+    position: absolute;
+  }
+  .sa p {
+    margin-top: 11%;
+    margin-left: -67%;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "poppins";
+    opacity: 0.6;
+  }
+  .sa h1 {
+    font-size: 19px;
+color: #313543;
+font-family: "Poppins", sans-serif;
+font-weight: 700;
+line-height: 1.5;
+margin-left: -1%;
+position: absolute;
+width: 104%;
+display: inline-block;
+text-align: center;
+margin-right: 5%;
+margin-top: -1%;
+  }
+  .sa br {
+    display: none;
+  }
+  .lorry img {
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 18%;
+    margin-top: 42%;
+    margin-left: 0%;
+  }
+  .blackbuck {
+    background-color: #f8f8f8;
+    width: 100%;
+    min-height: 15%;
+    margin-bottom: 2rem;
+    position: absolute;
+    margin-top: 130%;
+    margin-left: 1%;
+  }
+  .llog p {
+    margin-left: -90%;
+    position: absolute;
+    font-family: poppins;
+    opacity: 0.8;
+    font-size: 15px;
+    margin-top: -23%;
+  }
+  .llog h6 {
+    text-align: center;
+    color: #5b78b1;
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 11px;
+    margin-right: 49px;
+    background-color: #eef2f9;
+    width: 81px;
+    float: right;
+    margin-top: -64px;
+    border-radius: 20px;
+    margin-left: 56px;
+  }
+  .track {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 12px;
+    color: #313543;
+    margin-top: 83px;
+    width: 252px;
+    margin-left: 25px;
+    line-height: 1.5;
+  }
+  .van img {
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 267;
+    margin-top: 265%;
+    margin-left: 0%;
+  }
+  .lendstack {
+    background-color: #f8f8f8;
+    width: 100% !important;
+    min-height: 7% !important;
+    margin-bottom: 2rem !important;
+    position: absolute !important;
+    margin-left: 0% !important;
+    margin-top: 353% !important;
+  }
+  .stack1 p {
+    font-family: poppins;
+    font-size: 15px;
+    opacity: 0.8;
+    margin-left: -257px;
+  }
+  .stack1 h6 {
+    background-color: eef2f9;
+    width: 74px;
+    height: 17px;
+    float: right;
+    padding-top: 11px;
+    margin-bottom: 4px;
+    padding-left: 10px;
+    color: #5b78b1;
+    font-size: 12px;
+    font-family: poppins;
+    font-weight: 400;
+    margin-right: 18px;
+    border-radius: 7px;
+    margin-top: -43px;
+  }
+  .robust {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 12px;
+    color: #313543;
+    margin-top: 22px;
+    margin-left: 37px;
+    line-height: 1.5;
+    width: 260px;
+  }
+  .userexp {
+    margin-top: 473%;
+    /* position: absolute; */
+    display: flex;
+    background-color: #faf5f0;
+    margin-left: -1%;
+    height: 37%;
+    width: 100%;
+  }
+  .allcase p {
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 300;
+    margin-left: 33px;
+    width: 213px;
+    margin-top: -90px;
+  }
+  .allcasee {
+    margin-left: 0px;
+  }
+  .allcasee img {
+    margin-top: -46px;
+    position: absolute;
+    width: 33px;
+    margin-left: 106px;
+  }
+
+  .viewmore {
+    border: 2px solid #242421;
+    max-width: 96%;
+    padding: 42px 53px 0px 0px;
+    display: flex;
+    margin: 11.5px 413px 32px 39.5px;
+    margin-left: 39.5px;
+    margin-left: 229px;
+    border-radius: 8px;
+    opacity: 0.5;
+  }
+  .viewarrow {
+    width: 156px !important;
+
+    height: 18px !important;
+    margin-top: -32px !important;
+    margin-left: -49px !important;
+  }
+  .viewpara {
+    display: none;
+  }
+  .viewarroww {
+    margin-left: 22px !important;
+    width: 15px !important;
+    margin-top: -104px !important;
+  }
+
+  .viewmoree {
+    border: 2px solid #242421;
+    max-width: 96%;
+    padding: 0px 53px 0px 0px;
+    display: flex;
+    margin: 11.5px 413px 32px 39.5px;
+    margin-left: 39.5px;
+
+    margin-left: 229px;
+    border-radius: 10px;
+    opacity: 0.5;
+  }
+  .viewparaa {
+    color: white;
+  }
+}
+
+@media screen and (max-width: 810px) and (min-width: 350px) {
+  body,
+  html {
+    overflow-x: hidden;
+  }
+  .casestudies {
+    margin-top: -26px !important;
+    width: 794px !important;
+    margin-left: 0px !important;
+  }
+  .sa p {
+    margin-top: 105px;
+    margin-left: 59px;
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  .sa h1 {
+    font-weight: 700;
+    font-family: poppins;
+    text-align: center !important;
+    color: #313543;
+    font-size: 34px !important;
+    line-height: 1.2 !important;
+    margin-left: -5% !important;
+    margin-top: -3% !important;
+    width: 107%;
+  }
+  .lorry img {
+    position: absolute !important;
+    display: flex !important;
+    margin-left: 0px !important;
+    width: 100% !important;
+    height: 26% !important;
+    margin-left: 0% !important;
+  }
+  .blackbuck {
+    width: 100% !important;
+    min-height: 2% !important;
+    margin-bottom: 2rem !important;
+    position: absolute !important;
+    margin-top: 76% !important;
+    margin-left: 0% !important;
+  }
+  .viewmore12 {
+    border: 2px solid gray;
+    max-width: 13%;
+    padding: 38px 65px 10px 2px;
+    margin: 40.5px 702px 102px 612.5px;
+    border-radius: 12px;
+    display: inline-block;
+    /* margin-left: 622px !important;
+    margin-top: -39px !important; */
+    margin-left: 660px !important;
+margin-top: -27px !important;
+     cursor: pointer;
+  }
+  .viewmore {
+    display: none;
+  }
+  .llog p {
+    font-family: poppins;
+    font-weight: 400 !important;
+    margin-left: -253px !important;
+    font-size: 18px !important;
+    float: left;
+    margin-top: -65px !important;
+  }
+  .viewarrow12 {
+    width: 21px !important;
+  }
+  .llog h6 {
+    text-align: center;
+    color: #5b78b1;
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 13px;
+    margin-right: 91px;
+    background-color: #eef2f9;
+    width: 81px;
+    float: right;
+    margin-top: -53px;
+    border-radius: 18px;
+  }
+  .viewarrow12 {
+    width: 20px !important;
+    opacity: 0.8;
+    width: 2% !important;
+margin-left: 17px !important;
+padding-bottom: 18px !important;
+max-width: 20px;
+padding-left: 13px;
+padding-top: 0px;
+  }
+  p .viewarroww12 
+  {
+    width: 2%;
+  }
+  .van img {
+    position: absolute;
+    display: flex;
+    width: 100% !important;
+    height: 21% !important;
+    margin-top: 120% !important;
+    margin-left: 0% !important;
+  }
+
+  .lendstack {
+    background-color: #f8f8f8;
+    width: 100% !important;
+    min-height: 221px !important;
+    margin-bottom: 2rem !important;
+    position: absolute !important;
+    margin-top: 1537px !important;
+    margin-left: 0px !important;
+  }
+  .viewmoree {
+    display: none;
+  }
+  /* .viewmoree12 {
+        border: 2px solid gray;
+        max-width: 13%;
+        padding: 0px 16px 47px 7px;
+        display: inline-block;
+        margin: 25.5px 690px 66px 192.5px;
+        border-radius: 12px;
+      } */
+  .stack1 p {
+    font-family: poppins;
+    font-weight: 400 !important;
+    margin-left: -253px !important;
+    font-size: 18px !important;
+    float: left;
+    margin-top: 14px !important;
+    opacity: 0.7 !important;
+  }
+  .robust {
+    padding-top: 67px !important;
+    width: 560px !important;
+    margin-left: 43px !important;
+  }
+  .stack1 h6 {
+    margin-top: -4px;
+  }
+  .viewmoree12 {
+    border: 2px solid gray !important;
+    max-width: 7% !important;
+    padding: 12px 0px 5px 0px !important;
+    margin: -17.5px 671px 68px 653.5px !important;
+    border-radius: 8px !important;
+    display: inline-block !important;
+  }
+  .viewarroww12 {
+    width: 25px !important;
+    margin-top: -293px !important;
+    margin-left: 276px !important;
+    opacity: 0.7;
+  }
+  .userexp {
+    margin-top: 1874px;
+    display: flex;
+    background-color: #faf5f0;
+    margin-left: -6px;
+    height: 480px;
+    width: 2048px;
+  }
+  .allcasee {
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 300 !important;
+    margin-top: 419px !important;
+    margin-left: 238px !important;
+    font-size: 2px !important;
+  }
+  .allcasee p {
+    font-family: Montserrat;
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    color: black;
+    margin-top: -170px !important;
+    text-align: center;
+    margin-left: -196px !important;
+  }
+  .allcasee img {
+    margin-top: -36px !important;
+    position: absolute;
+    width: 26px !important;
+    margin-left: -11px !important;
+  }
+  .track{
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 16px !important;
+    color: #313543;
+    margin-top: 87px !important;
+    width: 613px !important;
+    margin-left: 43px !important;
+    line-height: 1.5 !important;
+  }
+  p .viewarroww12
+  {
+    margin-left: 268px !important;
+    width: 17px !important;
+    margin-top: -292px !important;
+    padding-left: 15%;
+    padding-top: 1%;
+  }
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 768px) {
+  body,
+  html {
+    overflow-x: hidden;
+  }
+  .casestudies {
+    margin-bottom: 120px;
+    margin-top: -5px;
+    background-color: #faf5f0;
+    margin-left: 0px;
+    width: 1009px;
+    height: 143rem;
+    position: absolute;
+  }
+  .sa p {
+    margin-top: 129px;
+    margin-left: 162px;
+    text-align: center;
+  }
+  .sa h1 {
+    font-size: 38px;
+    text-align: center;
+    margin-left: -8%;
+    line-height: 1.2;
+    width: 119%;
+  }
+  .lorry img {
+    margin-left: 0px;
+    width: 100%;
+    height: 25%;
+  }
+  .blackbuck {
+    background-color: #f8f8f8;
+    width: 100%;
+    min-height: 17%;
+    margin-bottom: 2rem;
+    position: absolute;
+    margin-top: 57%;
+    margin-left: 0%;
+  }
+  .van img {
+    width: 100%;
+    position: absolute;
+    display: flex;
+    margin-left: 0px;
+    height: 34%;
+    margin-top: 85%;
+  }
+  .lendstack {
+    background-color: #f8f8f8;
+    width: 100% !important;
+    min-height: 208px !important;
+    margin-bottom: 2rem !important;
+    position: absolute;
+    margin-left: 0px !important;
+    margin-top: 1436px !important;
+  }
+  .viewmore {
+    display: none;
+  }
+  .viewmore12 {
+    display: inline-block;
+  }
+  .llog p {
+    margin-left: -188px;
+    position: absolute;
+    font-family: poppins;
+    opacity: 0.7;
+    font-size: 20px;
+    margin-top: -60px;
+  }
+  .track {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 18px;
+    color: #313543;
+    margin-top: 87px;
+    width: 632px;
+    margin-left: 101px;
+    line-height: 1.5;
+  }
+  .viewmore12 {
+    border: 2px solid #242424;
+    max-width: 20%;
+    padding: 33px 53px 12px 2px;
+    border-radius: 8px;
+    margin-top: -60px;
+    opacity: 0.5;
+    margin-left: 827px;
+    float: left;
+  }
+  .viewarrow12 {
+    width: 2% !important;
+    margin-top: -6% !important;
+    margin-left: 2% !important;
+    border: 1px;
+  }
+  .stack1 p {
+    margin-top: 43px;
+    margin-left: -180px;
+    font-size: 20px;
+  }
+  .robust {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-size: 17px;
+    color: #313543;
+    margin-top: 22px;
+    width: 649px;
+    margin-left: 107px;
+    line-height: 1.5;
+  }
+  .viewmoree {
+    display: none;
+  }
+  .viewmoree12 {
+    display: inline-block;
+    margin-left: 800;
+    margin-top: -61px;
+    width: 54px;
+    padding-top: 3px;
+    padding-bottom: 12px;
+  }
+  p .viewarroww12 {
+    margin-left: 19% !important;
+width: 2% !important;
+margin-top: -5% !important;
+  }
+  .viewmoree12 {
+    border-radius: 2px solid gray;
+  }
+  .allcasee {
+    position: absolute;
+  }
+  .allcasee p {
+    font-size: 18px;
+    font-weight: 300;
+    margin-left: -686px;
+    margin-top: 1103px;
+  }
+  .allcasee img {
+    margin-top: -41px;
+    position: absolute;
+    margin-left: -250px;
+    width: 24px;
+  }
+}

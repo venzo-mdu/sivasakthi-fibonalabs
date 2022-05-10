@@ -1,0 +1,210 @@
+.product-container {
+  display: flex;
+  flex-flow: row;
+}
+.product-img img {
+  margin-left: 121px;
+  height: 700px;
+  width: 795px;}
+.product-detail {
+  background-color: #ffd948;
+  height: 700px;
+  width: 48.1%;
+  margin-left: 0px;
+}
+.whitepaper #wp {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: Poppins, sans-serif;
+  margin-top: 15%;
+}
+.whitepaper h2 {
+  font-size: 36px;
+  font-weight: 700;
+  font-family: Poppins, sans-serif;
+  text-align: center;
+  opacity: 0.9;
+}
+.whitepaper h4 {
+  font-size: 20px;
+  font-weight: 300;
+  font-family: Montserrat, sans-serif;
+  text-align: center;
+}
+.whitepaper #digital-product-detail {
+  text-align: center;
+font-size: 16px;
+width: 91%;
+font-family: Montserrat, sans-serif;
+line-height: 2;
+font-weight: 400;
+margin-left: 7%;
+}
+.download {
+  background-color: #7549ab;
+color: white;
+width: 28%;
+height: 8%;
+margin-left: 35%;
+border-radius: 10px;
+outline: none;
+border-style: none;
+font-size: 17px;
+font-weight: 400;
+font-family: Montserrat, sans-serif;
+margin-top: 3%;
+cursor: pointer;
+}
+@media screen and (max-width: 600px) and (min-width: 320px) {
+  .product-container {
+    display: flex;
+    flex-flow: column-reverse;
+  }
+  .product-detail {
+    background-color: #ffd948;
+    height: 818px;
+    width: 100%;
+  }
+  .whitepaper #wp {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: Poppins, sans-serif;
+    width: 85px;
+    margin-left: 80px;
+    margin-top: 52px;
+  }
+  .whitepaper #digital-product-detail {
+    text-align: center;
+    font-size: 14px;
+    width: 256px;
+    font-family: Montserrat, sans-serif;
+    line-height: 2;
+    font-weight: 400;
+    margin-left: 25px;
+    opacity: 0.9;
+  }
+  .download {
+    margin-left: 11%;
+    width: 80%;
+    height: 6%;  }
+  .product-img img {
+    margin-left: -1%;
+    height: 135%;
+    width: 102%;
+  }
+  .whitepaper h4 {
+    font-size: 18px;
+    font-weight: 300;
+    font-family: Montserrat, sans-serif;
+    text-align: center;
+    width: 273px;
+  }
+}
+@media only screen and (max-width: 810px) and (min-width: 350px) {
+  .product-container {
+    display: flex;
+    flex-flow: column-reverse;
+  }
+  .product-detail {
+    background-color: #ffd948;
+    height: 1006px;
+    width: 100.1%;
+  }
+  .whitepaper #wp {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: Poppins, sans-serif;
+    margin-top: 120px;
+    margin-left: 50px;
+  }
+  .whitepaper h2 {
+    font-size: 30px;
+  }
+  .whitepaper h4 {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: Montserrat, sans-serif;
+  }
+  .whitepaper #digital-product-detail {
+    font-size: 14px;
+    line-height: 2;
+    font-family: Montserrat, sans-serif;
+    width: 700px;
+    margin-top: 20px !important;
+    margin-left: 50px;
+  }
+  .download {
+    padding: 1% 2%;
+    margin-top: 1%;
+    border: none;
+    border-radius: 6px;
+    background-color: #7549ab;
+    color: #fff;
+    font-family: Montserrat, sans-serif;
+    cursor: pointer;
+    font-size: 16px;
+    width: 33%;
+    height: 7%;
+    margin-left: 37%;
+  }
+  .product-detail {
+    height: 610px;
+    margin-top: -920px;
+  }
+  .product-img img {
+    margin-left: 0px;
+    width: 100%;
+    height: 700px;
+  }
+}
+@media only screen and (max-width: 1024px) and (min-width: 768px) {
+  body,
+  html {
+    overflow-x: hidden;
+  }
+  .product-container {
+    display: flex;
+    flex-flow: column-reverse;
+    margin-top: 918px;
+  }
+  .product-detail {
+    background-color: #ffd948;
+    height: 722px;
+    width: 101.1%;
+  }
+  .whitepaper #wp {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Poppins, sans-serif;
+    margin-top: 21%;
+  }
+  .whitepaper h2 {
+    font-size: 30px;
+    margin: 2% 0%;
+    font-family: Poppins, sans-serif;
+  }
+  .whitepaper h4 {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: Montserrat, sans-serif;
+  }
+  .whitepaper #digital-product-detail {
+    margin: 20px 80px;
+    font-size: 14px;
+    line-height: 2;
+    font-family: Montserrat, sans-serif;
+  }
+  .product-img img {
+    margin-left: 0px;
+    width: 100%;
+    height: 600px;
+  }
+  .download
+  {
+    height: 8%;
+  }
+}

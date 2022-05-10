@@ -1,0 +1,445 @@
+.fibonolabs-container {
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    height: 1176px;
+    background-color: white;
+    display: block;
+    margin-top: -113px;
+  }
+  .fobono-tournament p {
+    font-size: 24px;
+    padding-top: 180px;
+    margin-left: 248px;
+  }
+  .fobono-tournament h1 {
+    font-size: 71px;
+    font-family: "poppins";
+    font-weight: 700;
+    margin-left: 244px;
+    margin-top: -19px;
+  }
+  .fobono-tournament h2 {
+    font-size: 72px;
+    font-family: "poppins";
+    font-weight: 700;
+    margin-left: 242px;
+    margin-top: -39px;
+    color: #f37298;
+  }
+  
+  div.scrollmenu {
+    white-space: nowrap;
+    display: flex;
+    width: 84%;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+    float: right;
+  }
+  
+  div.scrollmenu img {
+    display: inline-block;
+    color: red;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  .footer-arrow {
+    display: flex;
+  }
+  .footer-arrow #leftarrow {
+    width: 60px;
+    height: 16px;
+    border-radius: 50%;
+    padding: 5px;
+    border: 5px solid #f4f4f4;
+    display: flex;
+    cursor: pointer;
+    position: relative;
+    margin-top: 559px;
+    margin-left: 1702px;
+    margin-bottom: 20px;
+  }
+  .footer-arrow #rightarrow {
+    width: 79px;
+    height: 17px;
+    border-radius: 67%;
+    padding: 5px;
+    border: 2px solid #f4f4f4;
+    display: flex;
+    cursor: pointer;
+    margin-top: 561px;
+    margin-left: 34px;
+    position: relative;
+  }
+  .footer-arrow img {
+    width: 20px;
+  }
+  .footer-slider {
+    display: none;
+  }
+  @media screen and (max-width: 600px) {
+    .scrollmenu {
+      display: none;
+    }
+    div.scrollmenu img {
+      display: none;
+    }
+  
+    .footer-slider {
+      display: inline-block;
+      overflow: hidden;
+      width: 400px;
+      height: 152.97px;
+      margin-top: -20px;
+    }
+  
+    .footer-slider div {
+      position: relative;
+  
+      width: 1050%;
+  
+      margin: 0;
+  
+      left: 0;
+  
+      animation: 15s sliders infinite;
+    }
+  
+    .footer-slider div img {
+      float: left;
+    }
+  
+    @keyframes sliders {
+      0% {
+        left: 0;
+      }
+      9.99% {
+        left: 0;
+      }
+      10% {
+        left: -100%;
+      }
+  
+      19.99% {
+        left: -100%;
+      }
+  
+      20% {
+        left: -200%;
+      }
+  
+      29.99% {
+        left: -200%;
+      }
+  
+      30% {
+        left: 0%;
+      }
+    }
+    .footer-slider img {
+      width: 264px;
+      height: 200px;
+      margin-left: 20px;
+      border-radius: 12px;
+      margin-top: -11px;
+    }
+    .fobono-tournament p {
+      color: #313543;
+      font-family: Montserrat;
+      font-weight: 400;
+      margin-left: -234px;
+      margin-top: -100px;
+      font-size: 12px;
+      text-align: center;
+      padding-top: 180px;
+    }
+    .fobono-tournament h1 {
+      font-weight: 700;
+      font-size: 30px;
+      margin-left: 18px;
+      margin-top: -13px;
+      font-family: "poppins";
+    }
+    .fobono-tournament h2 {
+      font-size: 30px;
+      font-family: "poppins";
+      font-weight: 900;
+      margin-left: 18px;
+      margin-top: -10px;
+      color: #f37298;
+    }
+    .footer-arrow #rightarrow {
+      width: 29px;
+      height: 17px;
+      border-radius: 95%;
+      padding: 5px;
+      border: 4px solid white;
+      display: flex;
+      cursor: pointer;
+      margin-top: 23px;
+      margin-left: 0px;
+      position: relative;
+    }
+    .footer-arrow #leftarrow {
+      width: 22px;
+      height: 16px;
+      border-radius: 50%;
+      padding: 5px;
+      border: 5px solid white;
+      display: flex;
+      cursor: pointer;
+      position: relative;
+      margin-top: 23px;
+      margin-left: 201px;
+      margin-bottom: 20px;
+    }
+    .fibonolabs-container {
+      height: 746px;
+    }
+    .fibonolabs-container {
+      margin-top: 224px;
+    }
+  }
+  @media only screen and (max-width: 810px) and (min-width: 350px) {
+    .scrollmenu {
+      display: none;
+    }
+    div.scrollmenu img {
+      display: none;
+    }
+  
+    .footer-slider {
+      display: inline-block;
+      overflow: hidden;
+      width: 644px;
+      height: 246.97px;
+      margin-top: -20px;
+      margin-left: 90px;
+    }
+  
+    .footer-slider div {
+      position: relative;
+      width: 1080%;
+      margin: 0;
+      left: 0;
+      animation: 15s sliders infinite;
+    }
+  
+    .footer-slider div img {
+      float: left;
+    }
+  
+    @keyframes sliders {
+      0% {
+        left: 0;
+      }
+      9.99% {
+        left: 0;
+      }
+      10% {
+        left: -100%;
+      }
+  
+      19.99% {
+        left: -100%;
+      }
+  
+      20% {
+        left: -200%;
+      }
+  
+      29.99% {
+        left: -200%;
+      }
+  
+      30% {
+        left: 0%;
+      }
+    }
+    .footer-slider img {
+      width: 469px;
+      height: 251px;
+      margin-left: 114px;
+      border-radius: 12px;
+      margin-top: -11px;
+    }
+    .fobono-tournament p {
+      color: #313543;
+      font-family: Montserrat;
+      font-weight: 400 !important;
+      margin-left: -125px !important;
+      margin-top: -100px;
+      font-size: 16px;
+      text-align: center;
+      padding-top: 81px;
+    }
+    .fobono-tournament h1 {
+      font-weight: 700;
+      font-size: 40px;
+      margin-left: 95px;
+      margin-top: -13px;
+      font-family: "poppins";
+    }
+    .fobono-tournament h2 {
+      font-size: 40px;
+      font-family: "poppins";
+      font-weight: 900;
+      margin-left: 93px;
+      margin-top: -10px;
+      color: #f37298;
+    }
+    .footer-arrow #rightarrow {
+      width: 29px;
+      height: 17px;
+      border-radius: 95%;
+      padding: 5px;
+      border: 4px solid white;
+      display: flex;
+      cursor: pointer;
+      margin-top: 23px;
+      margin-left: 0px;
+      position: relative;
+    }
+    .footer-arrow #leftarrow {
+      width: 22px;
+      height: 16px;
+      border-radius: 50%;
+      padding: 5px;
+      border: 5px solid white;
+      display: flex;
+      cursor: pointer;
+      position: relative;
+      margin-top: 23px;
+      margin-left: 201px;
+      margin-bottom: 20px;
+    }
+    .fibonolabs-container {
+      height: 746px;
+    }
+    .fibonolabs-container {
+      margin-top: 106px;
+    }
+  }
+  @media only screen and (max-width: 1024px) and (min-width: 768px) {
+    .scrollmenu {
+      display: none;
+    }
+    div.scrollmenu img {
+      display: none;
+    }
+  
+    .footer-slider {
+      display: inline-block;
+      overflow: hidden;
+      width: 571px;
+      height: 382.97px;
+      margin-top: -20px;
+      margin-left: 40px;
+      border-radius: 12px;
+    }
+  
+    .footer-slider div {
+      position: relative;
+      width: 1080%;
+      margin: 0;
+      left: 0;
+      animation: 15s sliders infinite;
+    }
+  
+    .footer-slider div img {
+      float: left;
+    }
+  
+    @keyframes sliders {
+      0% {
+        left: 0;
+      }
+      9.99% {
+        left: 0;
+      }
+      10% {
+        left: -100%;
+      }
+  
+      19.99% {
+        left: -100%;
+      }
+  
+      20% {
+        left: -200%;
+      }
+  
+      29.99% {
+        left: -200%;
+      }
+  
+      30% {
+        left: 0%;
+      }
+    }
+    .footer-slider img {
+      width: 469px;
+      height: 251px;
+      margin-left: 114px;
+      border-radius: 12px;
+      margin-top: -11px;
+    }
+    .fobono-tournament p {
+      color: #313543;
+      font-family: Montserrat;
+      font-weight: 400 !important;
+      margin-left: -125px !important;
+      margin-top: -100px;
+      font-size: 16px;
+      text-align: center;
+      padding-top: 81px;
+    }
+    .fobono-tournament h1 {
+      font-weight: 700;
+      font-size: 40px;
+      margin-left: 95px;
+      margin-top: -13px;
+      font-family: "poppins";
+    }
+    .fobono-tournament h2 {
+      font-size: 44px;
+      font-family: "poppins";
+      font-weight: 800;
+      margin-left: 93px;
+      margin-top: -10px;
+      color: #f37298;
+    }
+    .footer-arrow #rightarrow {
+      width: 29px;
+      height: 17px;
+      border-radius: 95%;
+      padding: 5px;
+      border: 4px solid white;
+  
+      cursor: pointer;
+      margin-top: -95px;
+      margin-left: 8px;
+      position: relative;
+    }
+    .footer-arrow #leftarrow {
+      width: 22px;
+      height: 16px;
+      border-radius: 50%;
+      padding: 5px;
+      border: 9px solid white;
+  
+      cursor: pointer;
+      position: relative;
+      margin-top: -99px;
+      margin-left: 511px;
+      margin-bottom: 20px;
+    }
+    .fibonolabs-container {
+      height: 746px;
+    }
+    .fibonolabs-container {
+      margin-top: 106px;
+    }
+  }
+  
